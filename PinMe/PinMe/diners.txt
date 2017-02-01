@@ -1,0 +1,56 @@
+﻿[
+      {
+        "name": "Tuzlanka",
+        "address": "Univerzitetska 16, Tuzla",
+        "gpsx": "18.664664",
+        "gpsy": "44.538686"
+      },
+	  {
+        "name": "Njam Njam",
+        "address": "Prekinute mladosti, Tuzla",
+        "gpsx": "18.676999",
+        "gpsy": "44.538680"
+      },
+	  {
+        "name": "Limenka",
+        "address": "Patriotske lige 24",
+        "gpsx": "18.678369",
+        "gpsy": "44.539226"
+      },
+	  {
+        "name": "Saranda",
+        "address": "Maršala Tita 88, Tuzla",
+        "gpsx": "18.694286",
+        "gpsy": "44.534385"
+      },
+	  {
+        "name": "Mama Mia",
+        "address": "Mitra Trifunovića Uče 2, Tuzla",
+        "gpsx": "18.653050",
+        "gpsy": "44.532478"
+      },
+	  {
+        "name": "Staklo",
+        "address": "Bravadžiluk 5, Sarajevo",
+        "gpsx": "18.431468",
+        "gpsy": "43.859046"
+      },
+	  {
+        "name": "Mrkva",
+        "address": "Bravadžiluk 13, Sarajevo",
+        "gpsx": "18.431769",
+        "gpsy": "43.859034"
+      },
+	  {
+        "name": "McDonald's",
+        "address": "Maršala Tita 36, Sarajevo",
+        "gpsx": "18.418311",
+        "gpsy": "43.858779"
+      },
+	  {
+        "name": "Only One",
+        "address": "Butmirska cesta 14",
+        "gpsx": "18.312173",
+        "gpsy": "43.829016"
+      }
+]

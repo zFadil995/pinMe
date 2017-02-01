@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="PinMe.RangePage">
+  <ContentPage.Content>
+    <StackLayout Orientation="Vertical" BackgroundColor="#0077FF" HorizontalOptions="FillAndExpand" VerticalOptions="FillAndExpand" Spacing="10" Padding="10">
+      <Label x:Name="rangeName" Text="&lt;2 KM" FontSize="25" HorizontalOptions="CenterAndExpand" VerticalOptions="EndAndExpand"></Label>
+      <Slider x:Name="rangeSlider" HorizontalOptions="FillAndExpand" VerticalOptions="Center" ValueChanged="RangeChanged"></Slider>
+      <Button x:Name="rangeButton" Text="OK" HorizontalOptions="CenterAndExpand" VerticalOptions="StartAndExpand" Clicked="RangeButtonClicked"></Button>
+    </StackLayout>
+  </ContentPage.Content>
+</ContentPage>

@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="com.codetech.pinme" android:installLocation="auto">
+	<uses-sdk android:minSdkVersion="16" />
+	<uses-sdk android:targetSdkVersion="25" />
+	<uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_LOCATION_EXTRA_COMMANDS" />
+	<uses-permission android:name="android.permission.ACCESS_MOCK_LOCATION" />
+	<uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="PinMe" android:resizeableActivity="false">
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBs4Q_ZuqU8RVzYu1CM2IZHogkit01Hvak" />
+		<meta-data android:name="com.google.android.gms.version" android:value="8.4.0" />
+	</application>
+</manifest>
