@@ -10,7 +10,7 @@
 	<uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
 	<uses-permission android:name="android.permission.INTERNET" />
 	<application android:label="PinMe" android:resizeableActivity="false">
-		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyBs4Q_ZuqU8RVzYu1CM2IZHogkit01Hvak" />
+		<meta-data android:name="com.google.android.maps.v2.API_KEY" android:value="AIzaSyB_5dE5bOD0Bl1AX-7CqUQlXPng-to4CpA" />
 		<meta-data android:name="com.google.android.gms.version" android:value="8.4.0" />
 	</application>
 </manifest>
